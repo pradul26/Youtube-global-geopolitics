@@ -26,12 +26,17 @@ For each event include:
 
 Event Title
 Countries involved
-1 sentence summary
+2-3 sentence summary
 Possible connection to India (if any)
 
 Example Output:
 
-1. US-China naval standoff in South China Sea
-Countries: US, China, Philippines
-Summary: Increased patrol tensions near disputed islands.
-India Angle: Affects Indo-Pacific security architecture.
+1. Red Sea shipping attacks escalate
+
+Countries: Yemen, United States, United Kingdom
+
+Explanation:
+Houthi militants continue targeting commercial ships in the Red Sea. Western navies increased patrol operations to secure trade routes.
+
+India Impact:
+India relies heavily on these shipping routes for trade with Europe.
